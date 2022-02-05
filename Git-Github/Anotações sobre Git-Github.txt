@@ -1,0 +1,69 @@
+CLI – COMAND LINE INTERFACE
+GUI – GRAPHIC USER INTERFACE
+
+O que vamos aprender?
+
+Mudar de pastas
+Listar as pastas
+Criar pastas / Arquivos
+Deletar pastas / Arquivos
+
+DIR / LS – lista de diretórios
+CD / - change directory – subir ou descer níveis no diretório
+CD .. retrocede um nível
+CLS / CLEAR(Control L no bash) – limpar terminal
+TAB – auto completar
+MKDIR (MAKE DIRECTORY) – criar pasta
+ECHO – printa no terminal um texto 
+            echo hello > hello.txt – cria um arquivo de texto escrito hello
+DEL – deleta arquivos
+RMDIR – remove diretorios
+	     rmdir workspace /s /q
+
+___________________________________________________________________________
+
+SHA1 – algoritmo de hash seguro, conjunto de funções hash criptográficas projetadas pela nas (agência de segurança nacional dos EUA)
+a encriptação gera conjunto de characteres identificador de 40 digitos
+
+open ssl sha1 + nome do arquivo
+
+___________________________________________________________________________
+Objetos internos do git
+
+BLOBS - 
+TREES
+COMMIT
+_____________________________________________________________________________
+CHAVES SSH E TOKEN
+
+CHAVE SSH – conexão segura entre duas máquinas / encriptada
+gerar chave ssh no git bash
+comandos:
+
+Criar Chave git bash
+ssh-keygen -t ed25519 -C phalves1@homtail.com e depois colocar senha
+
+Passar para o agent
+eval $(ssh-agent -s)
+ssh-add id_ed25519
+
+
+
+Clonar repositorio
+copiar repositorio ssh no github
+git clone / colar repositorio
+
+TOKEN DE ACESSO PESSOAL
+
+_________________________________________________________________________
+
+INICIANDO O GIT E CRIANDO UM COMMIT
+
+Iniciar git
+Iniciar versionamento
+Criar um commit
+
+git init – iniciar repositorio
+git add – mover arquivos e começar versionamento
+git commit – criar commit
+
