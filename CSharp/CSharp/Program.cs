@@ -7,7 +7,7 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            var classe = new Classe();
+            var classe = new Primeiro.Classe();
             var classe2 = new Segundo.Classe();
             Console.WriteLine("Hello World!");
         }
