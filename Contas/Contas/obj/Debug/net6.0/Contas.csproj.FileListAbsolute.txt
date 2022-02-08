@@ -1,5 +1,0 @@
-C:\Users\phalv\source\repos\Contas\Contas\obj\Debug\net6.0\Contas.csproj.AssemblyReference.cache
-C:\Users\phalv\source\repos\Contas\Contas\obj\Debug\net6.0\Contas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\phalv\source\repos\Contas\Contas\obj\Debug\net6.0\Contas.AssemblyInfoInputs.cache
-C:\Users\phalv\source\repos\Contas\Contas\obj\Debug\net6.0\Contas.AssemblyInfo.cs
-C:\Users\phalv\source\repos\Contas\Contas\obj\Debug\net6.0\Contas.csproj.CoreCompileInputs.cache
